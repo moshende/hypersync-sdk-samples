@@ -4,11 +4,11 @@ This is Allied's first attempt at a custom Hypersync.
 # Hyperproof Resources
 https://github.com/Hyperproof/hypersync-sdk/tree/main/doc 
 
-# QRadar Resources 
+# API info from QRadar's GitHub
 https://github.com/IBM/api-samples/tree/master/siem 
 
 # What is known now
-Right now it is known that allied 
+Chris is the QRadar admin
 
-# API info from QRadar's GitHub
+
 
