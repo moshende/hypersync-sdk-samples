@@ -1,5 +1,5 @@
 # Custom QRadar Hypersync
-This is Allied's first attempt at a custom Hypersync.
+This is the first attempt at a custom Hypersync.
 
 # Hyperproof Resources
 https://github.com/Hyperproof/hypersync-sdk/tree/main/doc 
